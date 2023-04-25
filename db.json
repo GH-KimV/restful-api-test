@@ -1,0 +1,13 @@
+{
+  "products" :[
+    { "id": 1, "product_name": "E3", "sku": "xyz-456-7abc" },
+    { "id" : 2, "product_name": "M365", "sku": "abc-123-4lmn"},
+    { "id": 3, "product_name": "M365 E3", "sku": "abc-345-6qurt"},
+    { "id": 4, "product_name": "E3 Premier", "sku": "xyz-789-0wxyz"},
+    { "id": 5, "product_name": "o365 E5", "sku": "xyz-012-3wxyz"},
+    { "id": 6, "product_name": "E5 Premier", "sku": "xyz-456-7wxyz"},
+    { "id": 7, "product_name": "O365", "sku": "xyz-890-1wxyz"},
+    { "id": 8, "product_name": "365 Non-Profit", "sku": "xyz-234-5wxyz"},
+    { "id": 9, "product_name": "E5", "sku": "xyz-678-9wxyz"}
+  ]
+}
